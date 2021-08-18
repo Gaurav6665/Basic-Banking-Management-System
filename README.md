@@ -1,2 +1,2 @@
 # Basic-Banking-Management-System
-It is made in React Js
+Front-end : HTML, CSS, Bootstrap & Javascript Back-end : PHP Database : MySQL
